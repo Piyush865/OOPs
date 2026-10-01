@@ -1,0 +1,1 @@
+ // static total_customer;
